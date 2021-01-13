@@ -1,0 +1,7 @@
+
+
+#myCanvas{
+    background-color: black; 
+    background-image: url('bg.jpg'); 
+    border: 20px solid grey;
+}
